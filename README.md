@@ -1,5 +1,5 @@
 # ancient-archvies
 
-Bunch of shit programs written by me in school
+Bunch of shit programs I wrote in school
 
 Most will require TuboC++ to run.
